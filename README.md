@@ -6,6 +6,7 @@ I plan to adapt to all handled PC I collected: TRS-80 PC2, Sharp PC-1246, Sharp 
 | :-------------: | :-------------: | :-------------: |:-------------: |:-------------: |:-------------: |:-------------: |
 | DOSBox | win11 | i5-1240P | 5000 Cycles/s | GWBASIC | 0.6 | 2023-04-26 |
 | HP | 200LX | 80186 | 7.91 MHz | GWBASIC | 3.73 | 2023-04-26 |
+| Sharp | EL-5400 | CMOS | Unknown(4bit) | S-BASIC | 47 | 2023-04-26 |
 | Tandy  | TRS-80 PC2  | TBD  |TBD  |
 | Sharp  | PC-1246  | TBD  |TBD  |
 |TBD  |TBD  |TBD  |TBD  |
