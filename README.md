@@ -9,6 +9,7 @@ I plan to adapt to all handled PC I collected: TRS-80 PC2, Sharp PC-1246, Sharp 
 | Sharp | EL-5400 | CMOS | Unknown(4bit) | S-BASIC | 47 | 2023-04-26 |
 | Sharp | PC-1246 | SC61720D03 | 1 MHz | S`-BASIC | 53 | 2023-04-27 |
 | Sharp | EL-5500III | SC61860A31 | 768 KHz | S-BASIC | 101 | 2023-04-27 |
+| Casio | FX-720P | HD61913 | 455 KHz | BASIC | 93 | 2023-04-27 |
 | Tandy  | TRS-80 PC2  | TBD  |TBD  |
 | Sharp  | PC-1246  | TBD  |TBD  |
 |TBD  |TBD  |TBD  |TBD  |
